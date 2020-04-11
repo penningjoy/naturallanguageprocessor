@@ -9,4 +9,4 @@ docker run -it nlp
 ```
 
 ## Notes
-The application is built to only scrape a particular URL - a test URL. However, it can be extended to scrape similar webpages.
+The application is built to only scrape and process a particular wikipedia page to understand the content.
